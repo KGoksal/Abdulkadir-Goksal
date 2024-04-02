@@ -3,7 +3,7 @@ About Me
 <h1 align="center">Hi 👋, I'm Abdulkadir Goksal</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **DevOps tool**
+- 🔭 I’m currently working on **DevOps tools**
 
 - 🌱 I’m currently learning **Kubernetes**
 
