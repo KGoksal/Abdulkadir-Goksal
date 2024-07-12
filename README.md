@@ -1,4 +1,4 @@
-# Abdulkadir-Goksal
+# Kadir-Goksal
 About Me
 <h1 align="center">Hi 👋, I'm Kadir Goksal</h1>
 <h3 align="center">A passionate DevOps Engineer, living in Houston, TX.</h3>
@@ -7,7 +7,7 @@ About Me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdulkadir-goksal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kgoksal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kgoksal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kgoksal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
