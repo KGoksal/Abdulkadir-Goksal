@@ -1,15 +1,13 @@
 # Abdulkadir-Goksal
 About Me
-<h1 align="center">Hi 👋, I'm Abdulkadir Goksal</h1>
-<h3 align="center">A passionate DevOps Engineer from Turkey, living in Houston, TX.</h3>
+<h1 align="center">Hi 👋, I'm Kadir Goksal</h1>
+<h3 align="center">A passionate DevOps Engineer, living in Houston, TX.</h3>
 
-- 🔭 I’m currently working on **DevOps tools**
-
-- 🌱 I’m currently learning **Kubernetes**
+- 🔭 With 2+ years of combined experience in IT and 1 year in DevOps, I am motivated by a passion for automating IT operations and staying updated with emerging technologies. Currently, I am focused on implementing and controlling CI/CD pipelines, containerization, orchestration, monitoring, and infrastructure automation in production environments. My certifications include HashiCorp Certified: Terraform Associate, Azure Fundamentals, and Certified Kubernetes Administrator (CKA). I excel in Jira for agile project management and possess strong communication skills. Recognized for my adaptability and teamwork, I bring a solution-oriented approach to projects on AWS, emphasizing thorough testing and robust problem-solving abilities. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdulkadir-goksal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdulkadir-goksal/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdulkadir-goksal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kgoksal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
