@@ -7,6 +7,14 @@ About Me
 
 My certifications include HashiCorp Certified: Terraform Associate, Azure Fundamentals, and Certified Kubernetes Administrator (CKA). I excel in Jira for agile project management and possess strong communication skills. Recognized for my adaptability and teamwork, I bring a solution-oriented approach to projects on AWS, emphasizing thorough testing and robust problem-solving abilities. 
 
+
+
+
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kgoksal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kgoksal" height="30" width="40" /></a>
